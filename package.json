@@ -1,0 +1,25 @@
+{
+  "name": "event-to-calendar",
+  "version": "1.0.0",
+  "description": "Chrome extension to quickly add an event to your calendar",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwickman/event-to-calendar.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "event",
+    "calendar"
+  ],
+  "author": "David Wickman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidwickman/event-to-calendar/issues"
+  },
+  "homepage": "https://github.com/davidwickman/event-to-calendar#readme"
+}
